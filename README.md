@@ -22,10 +22,17 @@
 При выборе 6 - отметить, что посетитель пришел на место <br/>
 ![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/07056995-8cd7-4085-bf12-914ceeb7e26b) <br/>
 При выборе 7 - добавить новый сеанс <br/>
-![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/092c49c7-8131-4830-b94d-24bb15a7916c) <br/>
+![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/f3b6fafb-d793-4a36-bb04-d4f424cf1824) <br/>
 При выборе 8 - добавить новый фильм <br/>
 ![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/4b80d920-7bd2-4043-ba27-0a4c6c7c5d97) <br/>
 При выборе 9 - вывод всех существующих сеансов <br/>
+![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/90f617ab-f265-4de2-952c-4e50a561fd26) <br/>
+При выборе 10 - вывод всех существующих фильмов <br/>
+![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/7c69ab2e-abb7-483d-b6bd-201f84894670) <br/>
+При выборе 11 - выход их программы <br/>
+![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/eb2c6cf0-e35a-4c35-a24e-a10602f61307) <br/>
+
+
 
 
 
