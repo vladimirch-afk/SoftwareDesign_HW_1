@@ -1,0 +1,239 @@
+<mxfile host="app.diagrams.net" modified="2023-12-23T21:05:00.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eEcxY2nYU1IYKExq3Jmz" version="22.1.11" type="device">
+  <diagram name="Page-1" id="DHEQ140QnVzy4UPsAhqx">
+    <mxGraphModel dx="470" dy="253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="154vOWmTEzzovBNsamEB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="830" />
+              <mxPoint x="110" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="830" />
+              <mxPoint x="110" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="830" />
+              <mxPoint x="110" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="830" />
+              <mxPoint x="110" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="830" />
+              <mxPoint x="110" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="830" />
+              <mxPoint x="110" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="830" />
+              <mxPoint x="110" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="830" />
+              <mxPoint x="110" y="1055" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="830" />
+              <mxPoint x="110" y="1165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="830" />
+              <mxPoint x="110" y="1275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="830" />
+              <mxPoint x="110" y="1385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-1" target="154vOWmTEzzovBNsamEB-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="830" />
+              <mxPoint x="110" y="1495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-1" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="800" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-2" value="Авторизация пользователя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-3" value="Регистрация пользователя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-4" value="Ввод логина и пароля" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="110" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-7" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-3" target="154vOWmTEzzovBNsamEB-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="160" as="sourcePoint" />
+            <mxPoint x="670" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-8" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-2" target="154vOWmTEzzovBNsamEB-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="160" as="sourcePoint" />
+            <mxPoint x="670" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-9" value="Покупка билета" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-10" value="Возврат билета" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-11" value="Отображение свободных, купленных и уже занятых мест" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-12" value="Изменить информацию о фильме" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="680" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-13" value="Изменить информацию о сеансе" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="795" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-14" value="Отметить, что посетитель пришел на место" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="910" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-15" value="Добавить новый фильм" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1020" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-16" value="Добавить новый сеанс" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-17" value="Вывести в консоль существующие фильмы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-18" value="Вывести в консоль существующие сеансы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-19" value="Выйти из программы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-31" value="Ввод ID сеанса и номера места" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-32" value="Ввод ID сеанса и номера места" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-33" value="Ввести ID изменяемого фильма, его новое название, новое описание, новую продолжительность" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="655" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-34" value="Ввести ID изменяемого сеанса, ID нового фильма, новое время начала, новое время окончания" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="775" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-35" value="Ввести ID сеанса, номер места&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="900" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-36" value="Ввести название фильма, описание, продолжительность" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1020" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-37" value="Ввести название фильма, время начала сеанса, время окончания сеанса" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1120" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-38" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-9" target="154vOWmTEzzovBNsamEB-31">
+          <mxGeometry x="0.0011" width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="360" as="sourcePoint" />
+            <mxPoint x="530" y="360" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-39" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-10" target="154vOWmTEzzovBNsamEB-32">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="460" y="500" as="sourcePoint" />
+            <mxPoint x="620" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-40" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-12" target="154vOWmTEzzovBNsamEB-33">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="710" as="sourcePoint" />
+            <mxPoint x="570" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-41" value="Ввод ID сеанса" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="570" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-42" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-11" target="154vOWmTEzzovBNsamEB-41">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="430" y="590" as="sourcePoint" />
+            <mxPoint x="590" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-43" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-13" target="154vOWmTEzzovBNsamEB-34">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="460" y="850" as="sourcePoint" />
+            <mxPoint x="620" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-44" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-15" target="154vOWmTEzzovBNsamEB-36">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="460" y="1030" as="sourcePoint" />
+            <mxPoint x="620" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-45" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-16" target="154vOWmTEzzovBNsamEB-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="460" y="1220" as="sourcePoint" />
+            <mxPoint x="620" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="154vOWmTEzzovBNsamEB-46" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="154vOWmTEzzovBNsamEB-14" target="154vOWmTEzzovBNsamEB-35">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="460" y="990" as="sourcePoint" />
+            <mxPoint x="620" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
