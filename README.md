@@ -23,4 +23,9 @@
 ![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/07056995-8cd7-4085-bf12-914ceeb7e26b) <br/>
 При выборе 7 - добавить новый сеанс <br/>
 ![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/092c49c7-8131-4830-b94d-24bb15a7916c) <br/>
+При выборе 8 - добавить новый фильм <br/>
+![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/4b80d920-7bd2-4043-ba27-0a4c6c7c5d97) <br/>
+При выборе 9 - вывод всех существующих сеансов <br/>
+
+
 
