@@ -4,8 +4,12 @@
 ## Работа приложения
 При завпуске приложения предлагают авторизоваться или зарегестрироваться <br/>
 ![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/6f4b2d2d-9c31-41d2-b988-8afc567a6ae7) <br/>
-При выборе регистрации, надо ввести логин нового пользователя и пароль <br/>
+При выборе регистрации надо ввести логин нового пользователя и пароль <br/>
 ![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/e30d217d-e36a-4e43-a057-12fe1e374577) <br/>
+При выборе авторизации надо ввести логин и пароль существующего пользователя <br/>
+![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/b722a08d-18e5-4b6e-b7e7-1b0bf2028615) <br/>
+
+
 
 
 
