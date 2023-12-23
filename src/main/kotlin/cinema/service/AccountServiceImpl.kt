@@ -19,7 +19,7 @@ class AccountServiceImpl (accountD : AccountDao) : AccountService {
 
     override fun createAccount(login: String, password: String) {
         val encPassword = encryptPassword(password)
-        accountDao.createAccount(login, password)
+        accountDao.createAccount(login, encPassword)
     }
 
     override fun authorizeUser(login: String, password: String) {

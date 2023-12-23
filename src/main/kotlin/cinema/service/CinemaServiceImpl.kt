@@ -64,14 +64,6 @@ class CinemaServiceImpl (sessionD: SessionDao, movieD: MovieDao) : CinemaService
         }
     }
 
-    /*override fun createAccount(login: String, password: String) {
-        accountDao.createAccount(login, password)
-    }
-
-    override fun authorizeUser(login: String, password: String) {
-        accountDao.authorizeUser(login, password)
-    }*/
-
     override fun printSessions() {
         sessionDao.printSessions()
     }

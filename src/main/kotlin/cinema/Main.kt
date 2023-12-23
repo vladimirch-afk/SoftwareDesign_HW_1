@@ -37,7 +37,6 @@ fun getOptionFromUser() : Int {
             }
         } catch (ex: Exception) {
             println("Wrong input, try again:")
-            println()
         }
     }
 }
@@ -101,10 +100,10 @@ fun editSession(service: CinemaServiceImpl) {
     val sessionId : Int = readln().toInt()
     println("Input new movie ID:")
     val movieName = readln().toInt()
-    println("Input new start time [yyyy/MM/dd:HH:mm]:")
+    println("Input new start time [dd/MM/yy:HH:mm]:")
     val formatter = DateTimeFormatter.ofPattern("dd/MM/yy:HH:mm")
     val startTime = LocalDateTime.parse(readln(), formatter)
-    println("Input new end time [yyyy/MM/dd:HH:mm]:")
+    println("Input new end time [dd/MM/yy:HH:mm]:")
     val endTime = LocalDateTime.parse(readln(), formatter)
     println()
     service.editSession(sessionId, movieName, startTime, endTime)
@@ -121,7 +120,6 @@ fun checkCustomer(service: CinemaServiceImpl) {
     val seatNum = readln().toInt()
     println()
     service.makeSeatUsed(sessionId, seatNum)
-    println("Seat is now used")
 }
 
 /**
@@ -259,7 +257,7 @@ fun processOption(option : Int, serviceCinema : CinemaServiceImpl, serviceAccoun
         return
     } catch (ex : Exception) {
         println(ex.message)
-        println("Error occurred, try again")
+        println("Error occurred, try again\n")
     }
 }
 

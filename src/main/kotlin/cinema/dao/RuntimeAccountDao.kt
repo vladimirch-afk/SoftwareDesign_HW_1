@@ -16,7 +16,7 @@ class RuntimeAccountDao : AccountDao {
 
     override fun authorizeUser(login: String, password: String) : Boolean {
         val acc = findAccount(login)
-        return acc.password == (password ?: throw RuntimeException("Password is wrong"))
+        return acc.password == password
     }
 
     override fun createAccount(login: String, password: String) {

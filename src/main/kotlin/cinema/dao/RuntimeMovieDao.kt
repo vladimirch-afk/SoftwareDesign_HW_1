@@ -15,11 +15,17 @@ class RuntimeMovieDao : MovieDao {
     }
 
     override fun createMovie(name: String, description: String, duration: Long) {
+        if (duration < 1) {
+            throw RuntimeException("Duration of the movie must be a positive number...")
+        }
         movies.add(MovieEntity(movies.size, name, description, duration))
         println("Movie was created. ID: ${movies.size-1}")
     }
 
     override fun editMovie(id: Int, name: String, description: String, duration: Long) {
+        if (duration < 1) {
+            throw RuntimeException("Duration of the movie must be a positive number...")
+        }
         val movie = findMovie(id)
         movie.name = name
         movie.description = description

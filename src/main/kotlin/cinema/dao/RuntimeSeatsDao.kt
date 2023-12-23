@@ -12,10 +12,10 @@ class RuntimeSeatsDao : SeatsDao {
         val seat = findSeat(session, seatNum)
         if (seat.isFree) {
             seat.isFree = false
+            println("Seat was sold")
         } else {
             throw RuntimeException("Seat is already sold")
         }
-        println("Seat was sold")
     }
 
     override fun makeSeatFree(session: SessionEntity, seatNum: Int) {
@@ -39,6 +39,7 @@ class RuntimeSeatsDao : SeatsDao {
                 throw RuntimeException("Someone is already sitting on the seat")
             } else {
                 seat.isUsed = true
+                println("Seat is now used")
             }
         }
     }

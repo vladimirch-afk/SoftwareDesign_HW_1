@@ -17,8 +17,8 @@ class RuntimeSessionDao : SessionDao {
     private var sessions = mutableListOf<SessionEntity>()
     private val seatDao = RuntimeSeatsDao()
     override fun createSession(movie: MovieEntity, startTime: LocalDateTime, endTime: LocalDateTime) {
-        if (!sessions.any { (it.startTime < startTime && it.endTime < startTime) ||
-                    (it.endTime > startTime && it.endTime > endTime)}) {
+        if (!(sessions.all { (it.startTime < startTime && it.endTime < startTime) ||
+                    (it.endTime > startTime && it.endTime > endTime)})) {
             throw RuntimeException("Time of the new session intersects with time of another session")
         }
         if (startTime.plusMinutes(movie.duration) > endTime) {
