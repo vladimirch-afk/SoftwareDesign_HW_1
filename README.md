@@ -17,10 +17,10 @@
 При выборе 3 - вывод статуса мест будет запрошен ID сеанса и в консоль выведутся списки свободных мест, купленных мест и уже занятых <br/>
 При выборе 4 - редактирование существующего фильма <br/>
 ![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/f4c88d23-7f71-4745-8d76-77e6a57b1d5c) <br/>
-
-
-
-
-
-
+При выборе 5 - редактирование существующего сеанса <br/>
+![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/24b0e429-5ea5-49dc-8b55-e41a5e29dc38) <br/>
+При выборе 6 - отметить, что посетитель пришел на место <br/>
+![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/07056995-8cd7-4085-bf12-914ceeb7e26b) <br/>
+При выборе 7 - добавить новый сеанс <br/>
+![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/092c49c7-8131-4830-b94d-24bb15a7916c) <br/>
 
