@@ -31,7 +31,7 @@
 ![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/90f617ab-f265-4de2-952c-4e50a561fd26) <br/>
 При выборе 10 - вывод всех существующих фильмов <br/>
 ![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/7c69ab2e-abb7-483d-b6bd-201f84894670) <br/>
-При выборе 11 - выход их программы <br/>
+При выборе 11 - выход из программы <br/>
 ![image](https://github.com/vladimirch-afk/SoftwareDesign_HW_1/assets/93833696/eb2c6cf0-e35a-4c35-a24e-a10602f61307) <br/>
 ## Сообщения об ошибках
 Ошибки выводятся в консоль во многих случаях. Когда пользователь вводит строку, которая не может быть приобразована к нужному типу (например, целочисленныму значению или LocalDateTime), когда время нового сеанса накладывается на время другого сеанса,
